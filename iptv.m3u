@@ -9,9 +9,9 @@ http://162.212.178.69:41042/bysid/608
 https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN Portugal" tvg-logo="https://imgur.com/bc6tYVZ.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",CNN Portugal
 https://bit.ly/41Pufgt?/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",CNN International
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10146_dark_360w_270h.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",CNN USA
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN USA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",CNN USA
 https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA" tvg-logo="https://imgur.com/AaPmcsP.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",LA LIGA
 https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8
@@ -37,81 +37,81 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ManoTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN Women's Football" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="Canais | INTERNACIONAL" tvg-shift="-3",DAZN Women's Football
 https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ManoTV
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes" tvg-shift="-3",SporTV HD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV HD
 https://cr7v.short.gy/SporTV/index.m3u8
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes" tvg-shift="-3",SporTV HD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV HD
 https://8mwx.short.gy/SPORTV/index.m3u8
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD [Alter]" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes" tvg-shift="-3",SporTV FHD [Alter]
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV FHD [Alter]
 http://142.54.163.202/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV 4K" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Esportes" tvg-shift="-3",SporTV 4K
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV 4K
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/993
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes" tvg-shift="-3",SporTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94568_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV 2
 https://midiapaineis.com/video.php?acesso=0e9270575b78ad565219b830f2f98a68&usuario=7052eea839212efa2306b59499de1846
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Esportes" tvg-shift="-3",SporTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94568_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV 2
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Esportes" tvg-shift="-3",SporTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94570_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",SporTV 3
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/175
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
 http://51.83.238.223:16515/
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
 https://cr7v.short.gy/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
 http://94.130.165.243:14515/
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN BRASIL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN BRASIL
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/130
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Esportes" tvg-shift="-3",ESPN 2
 http://186.237.99.10:80/ESPN2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Esportes" tvg-shift="-3",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 2
 http://joao-1-us.mainbkonline.shop:80/live/qrdyirmy/d9ycaqx6/25.m3u8
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Esportes" tvg-shift="-3",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 2
 http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/129
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes" tvg-shift="-3",ESPN 3
 http://191.37.250.169:8801/live/ESPN3/tracks-a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes" tvg-shift="-3",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75585_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 3
 http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Esportes" tvg-shift="-3",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75585_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 3
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/995
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes" tvg-shift="-3",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76099_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 4
 http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes" tvg-shift="-3",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76099_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 4
 https://midiapaineis.com/video.php?acesso=cdfb3aea5a8191f5466d5007ca110e45&usuario=7052eea839212efa2306b59499de1846
-#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes" tvg-shift="-3",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76099_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",ESPN 4
 http://51.83.238.223:16575/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Esportes" tvg-shift="-3",ESPN 4
 http://main.xplus2-main.xyz:2082/xplus-2-eR4yOu5zB7/SVA2F4ceud/143
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2 HD" tvg-logo="https://imgur.com/NPCMbYc.png" group-title="Esportes" tvg-shift="-3",Fox Sports 2 HD
 http://main.xplus2-main.xyz:2082/xplus-2-eR4yOu5zB7/SVA2F4ceud/140
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Esportes" tvg-shift="-3",BAND SPORTS
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BAND SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54680_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",BAND SPORTS
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Esportes" tvg-shift="-3",COMBATE
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s85800_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",COMBATE
 http://209.222.97.92:16493/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fightpass HD" tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Esportes" tvg-shift="-3",UFC Fightpass HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1125.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fightpass FHD" tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Esportes" tvg-shift="-3",UFC Fightpass FHD
 https://midiapaineis.com/video.php?acesso=65f6afae10f6acbd6d73eb2d8a3b6cc1&usuario=7052eea839212efa2306b59499de1846
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes" tvg-shift="-3",Premiere Clubes HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99021_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere Clubes HD
 http://208.115.225.174:14460/
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD [Alter]" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Esportes" tvg-shift="-3",Premiere Clubes FHD [Alter]
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99021_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere Clubes FHD [Alter]
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/164
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes" tvg-shift="-3",Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95288_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 2 HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD [Alter]" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Esportes" tvg-shift="-3",Premiere 2 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95288_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 2 HD [Alter]
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/150
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Esportes" tvg-shift="-3",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95290_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 3 HD
 http://185.150.190.225:16468/
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD [Alter]" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Esportes" tvg-shift="-3",Premiere 3 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95290_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 3 HD [Alter]
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/152
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Esportes" tvg-shift="-3",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56087_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 4 HD
 http://185.150.190.225:16472/
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD [Alter]" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Esportes" tvg-shift="-3",Premiere 4 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56087_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 4 HD [Alter]
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/154
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD [Alter]" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Esportes" tvg-shift="-3",Premiere 5 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102434_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 5 HD [Alter]
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/156
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Esportes" tvg-shift="-3",Premiere 6 HD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103729_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 6 HD
 http://185.150.190.225:16482/
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD [Alter]" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Esportes" tvg-shift="-3",Premiere 6 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD [Alter]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103729_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 6 HD [Alter]
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/158
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Esportes" tvg-shift="-3",Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103733_dark_360w_270h.png" group-title="Esportes" tvg-shift="-3",Premiere 7 HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/160
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ge Fast HD" tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Esportes" tvg-shift="-3",Ge Fast HD
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
@@ -177,7 +177,7 @@ http://64.31.40.14:14048/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MyTime Movies" tvg-logo="https://imgur.com/f35UF5q.png" group-title="Filmes e S茅ries" tvg-shift="-3",MyTime Movies
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
-#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="PARAMOUNT" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="Filmes e S茅ries" tvg-shift="-3",PARAMOUNT
+#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="PARAMOUNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94356_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",PARAMOUNT
 http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75596_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",Sony HD
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
@@ -207,7 +207,7 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/301
 http://51.83.238.223:16763/
 #EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78306_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",TELECINE PREMIUM
 http://191.37.250.169:8801/live/TelecinePremiumHD/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch (alt)" tvg-logo="" group-title="Filmes e S茅ries" tvg-shift="-3",Telecine Touch (alt)
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch (alt)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78304_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",Telecine Touch (alt)
 https://hlsplus.online/p2p/telecinetouch/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyMyA3OjM3OjEzIFBNJmhhc2hfdmFsdWU9bmQ3dUlVRWlZNlhCRUhmUlZnbUR0Zz09JnZhbGlkbWludXRlcz0xNjA=
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78304_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",TELECINE TOUCH HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/310
@@ -223,9 +223,9 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/315
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5573
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV NOVA PLAY" tvg-logo="https://imgur.com/IFcA4UO.png" group-title="Filmes e S茅ries" tvg-shift="-3",TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel FHD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Filmes e S茅ries" tvg-shift="-3",Universal Channel FHD
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16138_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",Universal Channel FHD
 http://mn.appserv19.xyz:2095/live/Xplus-1-tH54zJr8e8/IoMyIJGQJy/319.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="Filmes e S茅ries" tvg-shift="-3",Universal Channel HD
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16138_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",Universal Channel HD
 http://208.115.225.174:14128/
 #EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="WARNER CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="Filmes e S茅ries" tvg-shift="-3",WARNER CHANNEL
 http://208.115.225.174:14132/
@@ -265,7 +265,7 @@ http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38060_dark_360w_270h.png" group-title="Not铆cias" tvg-shift="-3",TV Senado
 https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
-#EXTINF:-1 tvg-id="PontoJus.br" tvg-name="TV Justi莽a" tvg-logo="https://i.imgur.com/sURDHLY.png" group-title="Not铆cias" tvg-shift="-3",TV Justi莽a
+#EXTINF:-1 tvg-id="PontoJus.br" tvg-name="TV Justi莽a" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105968_dark_360w_270h.png" group-title="Not铆cias" tvg-shift="-3",TV Justi莽a
 https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
 #EXTINF:-1 tvg-id="CanalGOV.br" tvg-name="Canal GOV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54640_dark_360w_270h.png" group-title="Not铆cias" tvg-shift="-3",Canal GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
@@ -273,23 +273,23 @@ https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC BRASIL" tvg-logo="https://imgur.com/nVFiftB.png" group-title="Tv aberta" tvg-shift="-3",ABC BRASIL
 https://stmv1.srvstm.com/victor7513/victor7513/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="Agro Brasil" tvg-logo="https://imgur.com/WjWjQ2A.png" group-title="Tv aberta" tvg-shift="-3",Agro Brasil
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="Agro Brasil" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77828_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Agro Brasil
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agro Canal" tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Tv aberta" tvg-shift="-3",Agro Canal
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/550918304441506960454875.m3u8
-#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="AmazonSat" tvg-logo="https://i.imgur.com/ev3SsBX.png" group-title="Tv aberta" tvg-shift="-3",AmazonSat
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="AmazonSat" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95095_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astral TV FHD" tvg-logo="https://i.imgur.com/xnBg83J.png" group-title="Tv aberta" tvg-shift="-3",Astral TV FHD
 https://isaocorp.cloudecast.com/astraltv/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AW TV" tvg-logo="https://imgur.com/zxFbtNi.png" group-title="Tv aberta" tvg-shift="-3",AW TV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ManoTV
-#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band BA- N 茅 24h" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Tv aberta" tvg-shift="-3",Band BA- N 茅 24h
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band BA- N 茅 24h" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104198_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Band BA- N 茅 24h
 https://livestream.zazerconer.workers.dev/channel/UClXz2Nus3ASfscB60dC5gxQ.m3u8
 #EXTINF:-1 tvg-id="BandMatoGrosso.br" tvg-name="Band MT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104379_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Band MT HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?ManoTV
-#EXTINF:-1 tvg-id="RBATV.br" tvg-name="Band Par谩 - RBA TV HD" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Tv aberta" tvg-shift="-3",Band Par谩 - RBA TV HD
+#EXTINF:-1 tvg-id="RBATV.br" tvg-name="Band Par谩 - RBA TV HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104632_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Band Par谩 - RBA TV HD
 https://cdn.jmvstream.com/w/AVJ-14849/playlist/chunklist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="BandRJ.br" tvg-name="Band RJ- N 茅 24h" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Tv aberta" tvg-shift="-3",Band RJ- N 茅 24h
+#EXTINF:-1 tvg-id="BandRJ.br" tvg-name="Band RJ- N 茅 24h" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103711_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Band RJ- N 茅 24h
 https://livestream.zazerconer.workers.dev/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-name="Band SP HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41309_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Band SP HD
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
@@ -301,7 +301,7 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1873032931.m
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BS TV" tvg-logo="https://imgur.com/IAQIkuQ.png" group-title="Tv aberta" tvg-shift="-3",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w1014792137.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-logo="https://imgur.com/isJAvqM.png" group-title="Tv aberta" tvg-shift="-3",Canal do Boi
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77874_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/662566507635863535910662.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Ok TV" tvg-logo="https://i.imgur.com/rEIu04G.png" group-title="Tv aberta" tvg-shift="-3",Canal Ok TV
 https://video01.kshost.com.br/oktv6914/oktv6914/playlist.m3u8
@@ -325,23 +325,23 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo CUIAB脕 HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo CUIAB脕 HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/1117
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Globo ES HD" tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Tv aberta" tvg-shift="-3",Globo ES HD
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Globo ES HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104470_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Globo ES HD
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo GOI脕S HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo GOI脕S HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/849
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo INTEGRA脟脙O JUIZ DE FORA" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo INTEGRA脟脙O JUIZ DE FORA
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/494
-#EXTINF:-1 tvg-id="InterTVCabugi.br" tvg-name="Globo INTER TV CABUGI HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo INTER TV CABUGI HD
+#EXTINF:-1 tvg-id="InterTVCabugi.br" tvg-name="Globo INTER TV CABUGI HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105205_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Globo INTER TV CABUGI HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/495
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo MA HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo MA HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/530
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo MG HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo MG HD
 http://185.150.190.225:16263/
-#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo RBS RS HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo RBS RS HD
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo RBS RS HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75857_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Globo RBS RS HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/501
-#EXTINF:-1 tvg-id="GloboRio.br" tvg-name="Globo RJ HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo RJ HD
+#EXTINF:-1 tvg-id="GloboRio.br" tvg-name="Globo RJ HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Globo RJ HD
 https://8mwx.short.gy/GLOBORJ/index.m3u8
-#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo RPC CURITIBA Hd" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo RPC CURITIBA Hd
+#EXTINF:-1 tvg-id="RPCCuritiba.br" tvg-name="Globo RPC CURITIBA Hd" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75863_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Globo RPC CURITIBA Hd
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/505
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo RPC FOZ DO IGUA脟U HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo RPC FOZ DO IGUA脟U HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/506
@@ -349,7 +349,7 @@ http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/506
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/507
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo SC HD" tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Tv aberta" tvg-shift="-3",Globo SC HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/515
-#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP HD" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo SP HD
+#EXTINF:-1 tvg-id="GloboSaoPaulo.br" tvg-name="Globo SP HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58984_dark_360w_270h.png" group-title="Tv aberta" tvg-shift="-3",Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo SP HD [Alter]" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Tv aberta" tvg-shift="-3",Globo SP HD [Alter]
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
