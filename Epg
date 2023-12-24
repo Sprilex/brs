@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="AandE.br">
+<display-name>A&amp;E</display-name>
+</channel>
+<channel id="AMC.br">
+<display-name>AMC BRASIL</display-name>
+</channel>
+<channel id="AXN.br">
+<display-name>AXN</display-name>
+</channel>
+<channel id="Cinemax.br">
+<display-name>CINEMAX</display-name>
+</channel>
+<channel id="DisneyChannel.br">
+<display-name>Disney Channel</display-name>
+</channel>
+<channel id="FX.br">
+<display-name>FX HD</display-name>
+</channel>
+<channel id="HBO.br">
+<display-name>HBO</display-name>
+</channel>
+<channel id="HBO2.br">
+<display-name>HBO 2</display-name>
+</channel>
+<channel id="HBOFamily.br">
+<display-name>HBO Family FHD</display-name>
+<display-name>HBO Family HD</display-name>
+</channel>
+<channel id="HBOSignature.br">
+<display-name>HBO SIGNATURE</display-name>
+</channel>
+<channel id="HBOXtreme.br">
+<display-name>HBO Xtreme HD</display-name>
+<display-name>HBO Xtreme HD [Alter]</display-name>
+</channel>
+<channel id="Megapix.br">
+<display-name>MEGAPIX</display-name>
+</channel>
+<channel id="SonyChannel.br">
+<display-name>Sony HD</display-name>
+</channel>
+<channel id="SonyMoviesBrazil.br">
+<display-name>Sony Movies HD</display-name>
+</channel>
+<channel id="Space.br">
+<display-name>SPACE</display-name>
+</channel>
+<channel id="StarChannel.br">
+<display-name>STAR CHANNEL</display-name>
+</channel>
+<channel id="StudioUniversal.br">
+<display-name>Studio Universal</display-name>
+</channel>
+<channel id="TelecineAction.br">
+<display-name>Telecine Action HD</display-name>
+</channel>
+<channel id="TelecineCult.br">
+<display-name>TELECINE CULT HD</display-name>
+</channel>
+<channel id="TelecineFun.br">
+<display-name>TELECINE FUN HD</display-name>
+</channel>
+<channel id="TelecinePipoca.br">
+<display-name>Telecine Pipoca HD</display-name>
+</channel>
+<channel id="TelecinePremium.br">
+<display-name>TELECINE PREMIUM</display-name>
+</channel>
+<channel id="TelecineTouch.br">
+<display-name>TELECINE TOUCH HD</display-name>
+</channel>
+<channel id="TNT.br">
+<display-name>TNT</display-name>
+</channel>
+<channel id="TNTSeries.br">
+<display-name>TNT SERIES</display-name>
+</channel>
+<channel id="WarnerChannel.br">
+<display-name>WARNER CHANNEL</display-name>
+</tv>
